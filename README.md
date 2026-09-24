@@ -10,14 +10,15 @@
 
 ## 🚀 About Me
 
-I'm a BIT student and aspiring developer passionate about building projects, exploring AI, web development, and game development.
+I'm a passionate web developer and BIT student from Kathmandu, Nepal, with a knack for crafting engaging user experiences. With a solid foundation in HTML, CSS, and JavaScript, plus hands-on expertise in UI design and Flutter, I bring creativity and precision to every project I tackle. My two years of video editing for YouTube have honed my ability to deliver high-quality visuals on tight deadlines.
 
-💻 Currently learning and building with modern technologies
-🤖 Interested in AI-powered applications
-🎮 Exploring game development and creative projects
-🚀 Always learning, experimenting, and turning ideas into reality
-⚡ Let's Build Something Cool!
-
+- 💻 Currently learning and building with modern technologies
+- 🤖 Interested in AI-powered applications
+- 💬 Ask me about **Web development, UI/UX design, or the art of video editing and graphic design.**
+- 🎮 Exploring game development and creative projects
+- ⚡ I've spent two years creating eye-catching graphics and editing videos for YouTube, blending tech and creativity!
+- 🚀 Always learning, experimenting, and turning ideas into reality
+- ⚡ Let's Build Something Cool!
 
 ## 🛠️ Tech Stack
 
